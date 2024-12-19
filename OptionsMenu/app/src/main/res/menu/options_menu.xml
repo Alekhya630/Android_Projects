@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/dum_biryani"
+        android:title="@string/dum_biryani"
+        android:icon="@drawable/dum"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/mandi_biryani"
+        android:title="@string/mandi_biryani"
+        android:icon="@drawable/mandi"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/butta_biryani"
+        android:title="@string/butta_biryani1"
+        android:icon="@drawable/butta"
+        app:showAsAction="ifRoom"/>
+
+
+  
+</menu>

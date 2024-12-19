@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLite Database</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>

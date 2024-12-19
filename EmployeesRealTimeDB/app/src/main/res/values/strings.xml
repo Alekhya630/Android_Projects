@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Employees Real Time DB</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="designation">Designation</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+</resources>

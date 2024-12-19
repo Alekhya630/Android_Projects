@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "627003003757",
+    "firebase_url": "https://products-db-cfbd6-default-rtdb.firebaseio.com",
+    "project_id": "products-db-cfbd6",
+    "storage_bucket": "products-db-cfbd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627003003757:android:1873c1fabe782cb2d90064",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.productsrealtimedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYVKLrR7GHg5vz8ErcA3oI3kJc8M-R7i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

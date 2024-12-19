@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "342982448465",
+    "firebase_url": "https://productdb-1e55b-default-rtdb.firebaseio.com",
+    "project_id": "productdb-1e55b",
+    "storage_bucket": "productdb-1e55b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342982448465:android:6d8cc9ccf4474db045af70",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.productapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMUZmd4RC1tDNlIqkoUM_9b--pJVPSnGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

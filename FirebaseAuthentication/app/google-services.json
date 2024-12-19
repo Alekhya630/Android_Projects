@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761051151715",
+    "project_id": "fir-authentication-1e4ef",
+    "storage_bucket": "fir-authentication-1e4ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761051151715:android:1c9985da1aa0b3ed77a756",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.firebaseauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYueNKqB8IXVMbrUpfrmew7m5-pA4U6tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

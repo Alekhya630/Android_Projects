@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="welcome_txt">Welcome to new android poroject</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262571194503",
+    "project_id": "cardetailsfirebase-680b7",
+    "storage_bucket": "cardetailsfirebase-680b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262571194503:android:edb16fbc25defb50462022",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.cardetailsfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfboQZzf8oLO-7OGrdi9kYIY0iusXqBa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

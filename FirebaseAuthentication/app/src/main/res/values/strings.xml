@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin">Signin</string>
+    <string name="sname">SName</string>
+    <string name="semail">SEmail</string>
+    <string name="spassword">SPassword</string>
+    <string name="sconfirm_password">SConfirm Password</string>
+    <string name="signup">SignUP</string>
+</resources>

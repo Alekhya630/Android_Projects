@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="flower_name">Flower Name</string>
+    <string name="user">User:</string>
+    <string name="views">Views:</string>
+    <string name="downloads">Downloads:</string>
+    <string name="published">Published:</string>
+    <string name="flower_image">Flower Image</string>
+    <string name="flower_image_desc">flower_image_desc</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Journey Details</string>
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="date">Date</string>
+    <string name="travelling_date">travelling date</string>
+    <string name="travelling_time">Travelling time</string>
+    <string name="destination1">destination</string>
+    <string name="time">Time</string>
+    <string name="submit">Submit</string>
+</resources>

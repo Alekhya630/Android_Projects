@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Options Menu</string>
+    <string name="call">call</string>
+    <string name="launch">launch</string>
+    <string name="dum">DUM</string>
+    <string name="mandi">MANDI</string>
+    <string name="butta">BUTTA</string>
+    <string name="dum_biryani">Dum Biryani</string>
+    <string name="butta_biryani">Butta Biryani</string>
+    <string name="mandi_biryani">Mandi Biryani</string>
+    <string name="butta_biryani1">Butta Biryani</string>
+    <string name="chicken_dum_biryani">Chicken Dum Biryani</string>
+    <string name="mandi_biryani1">Mandi Biryani</string>
+</resources>

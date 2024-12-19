@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Car Details Fire Base</string>
+    <string name="enter_car_manufacture">Enter Car Manufacture</string>
+    <string name="enter_your_model">Enter your Model</string>
+    <string name="enter_manufactured_year">Enter Manufactured Year</string>
+    <string name="enter_fuel_type">Enter Fuel Type</string>
+    <string name="enter_seater_capacity">Enter Seater Capacity</string>
+    <string name="enter_car_mileage">Enter Car Mileage</string>
+    <string name="submit">SUBMIT</string>
+    <string name="load">LOAD</string>
+</resources>

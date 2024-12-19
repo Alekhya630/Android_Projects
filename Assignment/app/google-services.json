@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "805020889924",
+    "firebase_url": "https://assignment-3781a-default-rtdb.firebaseio.com",
+    "project_id": "assignment-3781a",
+    "storage_bucket": "assignment-3781a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805020889924:android:2465ab15966c3a9dd75d11",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvnep9q6l4kMteSYLKVLsxRdmHJh8mSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

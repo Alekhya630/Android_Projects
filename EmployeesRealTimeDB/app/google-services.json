@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "625368455731",
+    "firebase_url": "https://employeesrealtime-default-rtdb.firebaseio.com",
+    "project_id": "employeesrealtime",
+    "storage_bucket": "employeesrealtime.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625368455731:android:60d57f16498736a7a72146",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.employeesrealtimedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdH4P4Hc4x0uQDI3FmD0RVC9269Qhx2vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
